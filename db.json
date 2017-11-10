@@ -1,17 +1,19 @@
-[{
-	"id": "3424 ",
-	"name": "SDFASD",
-	"age":32
-}, {
-	"id": "345",
-	"name": "SDFASD",
-	"age":17
-}, {
-	"id": "2347 ",
-	"name": "sdfgsdtg",
-	"age":35
-}, {
-	"id": "3437 ",
-	"name": "rktje",
-	"age":23
-}]
+{
+	"mydata": [{
+		"id": "3424 ",
+		"name": "SDFASD",
+		"age": 32
+	}, {
+		"id": "345",
+		"name": "SDFASD",
+		"age": 17
+	}, {
+		"id": "2347 ",
+		"name": "sdfgsdtg",
+		"age": 35
+	}, {
+		"id": "3437 ",
+		"name": "rktje",
+		"age": 23
+	}]
+}
